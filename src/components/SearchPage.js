@@ -20,7 +20,7 @@ function Search(props) {
         onChange={searchHandler}
       />
 
-      <button onClick={search}>Search</button>
+      <button >Search</button>
 
       <div>
     
